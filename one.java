@@ -1,2 +1,0 @@
-hi ram
-hello world
